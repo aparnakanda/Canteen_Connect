@@ -1,6 +1,15 @@
 # 🍴 Canteen Connect
 
-Canteen Connect is a mobile application designed to streamline the food ordering experience within college campuses. It allows students to browse canteens, view food menus, place orders, and track order history — all from one intuitive app.
+Canteen Connect is a mobile application designed to streamline the food ordering experience within college campuses. It enables students to explore multiple canteens, browse real-time menus, place and track orders, write reviews, and enjoy a seamless ordering experience. Admins and canteen staff can view orders and manage items efficiently.
+---
+
+## 🎯 Project Goals
+
+- Reduce long queues in college canteens by enabling online food ordering.
+- Provide a transparent and interactive food ordering system.
+- Display real-time food availability and estimated preparation time.
+- Enable users to view and navigate to different canteens within the college.
+- Help new users easily locate canteen locations with integrated navigation support (e.g., maps or directions).
 
 ---
 
