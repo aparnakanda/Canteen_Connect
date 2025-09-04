@@ -84,6 +84,7 @@ The app uses ServiceNow as the backend system to manage canteen operations:
  -REST API credentials
  -Proper tables (canteen_list, u_canteen_menu, u_order_details, u_canteen_user, u_issues)
 
+
 📌 Future Enhancements
 🔔 Push notifications for order status updates
 💳 Online payment integration
