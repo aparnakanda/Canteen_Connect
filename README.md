@@ -69,24 +69,31 @@ The app uses ServiceNow as the backend system to manage canteen operations:
 
 ## ⚡ Installation & Setup
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/aparnakanda/Canteen_Connect.git
-   cd Canteen_Connect
-2.Install dependencies:
- -npm install
+1. **Clone the repository**  
+git clone https://github.com/aparnakanda/Canteen_Connect.git  
+cd Canteen_Connect
 
-3.Start the application:
- -npm start
+2. **Install dependencies**  
+npm install
 
-4.Backend (Node.js + Express) must be configured with:
- -ServiceNow instance URL
- -REST API credentials
- -Proper tables (canteen_list, u_canteen_menu, u_order_details, u_canteen_user, u_issues)
+3. **Start the application**  
+npm start
 
+4. **Backend Configuration (Node.js + Express)**  
+- Configure your **ServiceNow instance URL**  
+- Set up **REST API credentials**  
+- Ensure the following **tables exist in ServiceNow**:  
+  - canteen_list  
+  - u_canteen_menu  
+  - u_order_details  
+  - u_canteen_user  
+  - u_issues
 
-📌 Future Enhancements
-🔔 Push notifications for order status updates
-💳 Online payment integration
-🗺️ Live tracking of order preparation and pickup
-🌐 Multi-campus support
+---
+
+## 📌 Future Enhancements
+
+- 🔔 Push notifications for order status updates  
+- 💳 Online payment integration  
+- 🗺️ Live tracking of order preparation and pickup  
+- 🌐 Multi-campus support
